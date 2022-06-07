@@ -1,0 +1,12 @@
+.form{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+
+    padding: 1.5rem;
+}
+
+.font{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left !important;
+}
